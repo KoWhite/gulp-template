@@ -1,0 +1,11 @@
+/*reset*/
+* html{background-image:url(about:blank);background-attachment:fixed;}
+body{background:#fff;font-size:18px;line-height:32px;font-family:MicrosoftYaHei,Verdana,arial,"\5FAE\8F6F\96C5\9ED1","\5B8B\4F53","\9ED1\4F53",sans-serif;_font-family:"\5B8B\4F53";color:#000;position:relative}
+body,html,a,img,div,form,select,input,ul,ol,li,h1,h2,h3,h4,h5,h6,dd,dl,dt,p,label,em,span,cude,i{margin:0;padding:0}
+a{color:#000;text-decoration:none;cursor:pointer}
+ol,ul,li{list-style:none}
+em,i{font-style:normal}
+img{border:none}
+input,textarea{outline:none}
+textarea{resize:none}
+
